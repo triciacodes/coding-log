@@ -1,10 +1,12 @@
 # I've joined the #100DaysOfCode Challenge
 
+I'll be coding for a minimum of an hour a day, every day for 100 days. I am currently focusing on CSS animations, and creating something daily at [CodePen](https://codepen.io/collection/npNWxv/).
+
 * [Log - click here to see my progress](log.md)
 
-## Info
+## Credit
 
-This is a coding challenge created by Andrew Kallaway [@ka11away](https://twitter.com/ka11away)
+This is a coding challenge created by Alexander Kallaway [@ka11away](https://twitter.com/ka11away)
 
 ## If you'd like to join:
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
