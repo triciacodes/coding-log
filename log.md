@@ -4,7 +4,7 @@
 
 **Today's Progress**: Finished a new [CodePen](https://codepen.io/tricialeach/pen/mwBxJb), heavily inspired by the header of the Creative Mornings weekly newsletter.
 
-**Thoughts:** I'm sure what I did still isn't even close to the most efficient way of doing this, but using :nth-child is a new approach for me. When I started, I thought I'd give each of the divs an individual class, so at least this way I could create generic divs for each of the circles. I'm excited about some of the new gradient techniques I learned today. I might go back to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients) tomorrow to try something new.
+**Thoughts:** I'm sure what I did still isn't even close to the most efficient way of doing this, but using :nth-child is a new approach for me. When I started, I thought I'd give each of the divs an individual class, but with using :nth-child I could save that time and create generic divs for each of the circles. I'm excited about some of the new gradient techniques I learned today. I might go back to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients) tomorrow to try something new.
 
 **Link to work:** [CodePen #003](https://codepen.io/tricialeach/pen/mwBxJb)
 
