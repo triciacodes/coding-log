@@ -1,7 +1,5 @@
 # 100 Days Of Code Log
 
-- - -
-
 ### Day 3: June 25, 2017
 
 **Today's Progress**: Finished a new [CodePen](https://codepen.io/tricialeach/pen/mwBxJb), based on the header of the Creative Mornings weekly newsletter.
