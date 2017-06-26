@@ -2,7 +2,7 @@
 
 ### Day 3: June 25, 2017
 
-**Today's Progress**: Finished a new [CodePen](https://codepen.io/tricialeach/pen/mwBxJb), based on the header of the Creative Mornings weekly newsletter.
+**Today's Progress**: Finished a new [CodePen](https://codepen.io/tricialeach/pen/mwBxJb), heavily inspired by the header of the Creative Mornings weekly newsletter.
 
 **Thoughts:** I'm sure what I did still isn't even close to the most efficient way of doing this, but using :nth-child is a new approach for me. When I started, I thought I'd give each of the divs an individual class, so at least this way I could create generic divs for each of the circles. I'm excited about some of the new gradient techniques I learned today. I might go back to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients) tomorrow to try something new.
 
