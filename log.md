@@ -1,5 +1,25 @@
 # 100 Days Of Code Log
 
+- - -
+
+### Day 3: June 25, 2017
+
+**Today's Progress**: Finished a new [CodePen](https://codepen.io/tricialeach/pen/mwBxJb), based on the header of the Creative Mornings weekly newsletter.
+
+**Thoughts:** I'm sure what I did still isn't even close to the most efficient way of doing this, but using :nth-child is a new approach for me. When I started, I thought I'd give each of the divs an individual class, so at least this way I could create generic divs for each of the circles. I'm excited about some of the new gradient techniques I learned today. I might go back to the [MDN documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Using_CSS_gradients) tomorrow to try something new.
+
+**Link to work:** [CodePen #003](https://codepen.io/tricialeach/pen/mwBxJb)
+
+**Resources:** 
+
+1. [Creative Mornings Weekly Highlight](https://creativemornings.com/newsletter/weekly-highlight): This was the inspiration for today's practice
+2. [CSS Gradients at CSS-Tricks](https://css-tricks.com/css3-gradients/): To figure out the hard stop gradients
+3. [Mastering the :nth-child](http://nthmaster.com/): Needed a MAJOR refresher on this
+4. [GetImageColors](https://www.getimagecolors.com): Color picking
+5. [KanbanFlow](https://kanbanflow.com): For pomodoro timer and task tracking
+
+- - - 
+
 ### Day 2: June 24, 2017
 
 **Today's Progress**: Finished a new [CodePen](https://codepen.io/tricialeach/pen/mwBbBo). It's blazing hot this weekend, so I made a radiating sun animation. I skimmed the rest of the Pocket Guide to CSS Animations, and read some articles. I also researched CMS's for a new domain, and installed [Kirby](https://getkirby.com/) to try it out.
