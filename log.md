@@ -5,7 +5,7 @@
 
 **Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/pen/bRYBNO). Practicing again with :nth-child, and also delayed animation.
 
-**Thoughts:** I had a lot of fun putting this one together. It's also much to see my animations start stacking up after working on it consistently every day. I can't wait to see 100 animations in my CodePen. Definitely a treat to be doing this after a day of working on MySQL for my [LaunchCode](https://www.launchcode.org/lc101) class.
+**Thoughts:** I had a lot of fun putting this one together. It's also great to see my animations start stacking up after working on it consistently every day. I can't wait to see 100 animations in my CodePen. Definitely a treat to be doing this after a day of working on MySQL for my [LaunchCode](https://www.launchcode.org/lc101) class.
 
 **Link to work:** [CodePen #004](https://codepen.io/tricialeach/pen/bRYBNO)
 
