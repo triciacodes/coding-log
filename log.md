@@ -1,5 +1,22 @@
 # 100 Days Of Code Log
 
+
+### Day 4: June 26, 2017
+
+**Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/pen/bRYBNO). Practicing again with :nth-child, and also delayed animation.
+
+**Thoughts:** I had a lot of fun putting this one together. It's also much to see my animations start stacking up after working on it consistently every day. I can't wait to see 100 animations in my CodePen. Definitely a treat to be doing this after a day of working on MySQL for my [LaunchCode](https://www.launchcode.org/lc101) class.
+
+**Link to work:** [CodePen #004](https://codepen.io/tricialeach/pen/bRYBNO)
+
+**Resources:** 
+
+1. [Moving an element along a circle](http://lea.verou.me/2012/02/moving-an-element-along-a-circle/) by [Lea Verou](http://lea.verou.me/): My animation started from this tutorial
+2. [Quiver](http://happenapps.com/): I've been using this app for notetaking <3
+3. [Mastering the :nth-child](http://nthmaster.com/): Needed a MAJOR refresher on this
+
+- - - 
+
 ### Day 3: June 25, 2017
 
 **Today's Progress**: Finished a new [CodePen](https://codepen.io/tricialeach/pen/mwBxJb), heavily inspired by the header of the Creative Mornings weekly newsletter.
