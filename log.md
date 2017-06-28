@@ -11,7 +11,7 @@
 **Resources:** 
 
 1. [Animation Shorthand Cheat Sheet](https://codepen.io/tatimblin/pen/egBpwR): I didn't end up using the shorthand in the final version (it was causing a probem with my delay), but this helped me understand it
-2. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): I'm going to start again with this tutorial tomorrow U+1F62C
+2. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): I'm going to start again with this tutorial tomorrow
 
 - - - 
 
