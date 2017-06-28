@@ -4,13 +4,14 @@
 
 **Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/pen/ZyvERv). I was attempting to use Flexbox, but that didn't turn out so well.
 
-**Thoughts:** I'm not super thrilled with what I can up with today. I need to do some concentrated reading on Flexbox tomorrow (before I start coding), and give that another try. I have no idea what I was doing wrong, but I'm determined to work on something every day and post progress, even when I don't like it. I also want to look into how to apply multiple animations to one element.
+**Thoughts:** I'm not super thrilled with what I can up with today. I need to do some concentrated reading on Flexbox tomorrow (before I start coding), and give that another try. I have no idea what I was doing wrong, but I'm determined to work on something every day and post progress, even when I don't like it. I also want to look into how to apply multiple CSS animations (or transitions?) to one element.
 
 **Link to work:** [CodePen #005](https://codepen.io/tricialeach/pen/ZyvERv)
 
 **Resources:** 
 
 1. [Animation Shorthand Cheat Sheet](https://codepen.io/tatimblin/pen/egBpwR): I didn't end up using the shorthand in the final version (it was causing a probem with my delay), but this helped me understand it
+2. [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): I'm going to start again with this tutorial tomorrow U+1F62C
 
 - - - 
 
