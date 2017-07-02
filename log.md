@@ -1,5 +1,20 @@
 # 100 Days Of Code Log
 
+### Day 6: July 1, 2017
+
+**Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/pen/OgQQeB/). This was an experiment in getting Flexbox to work properly, and trying to flip something back to front.
+
+**Thoughts:** I cheated a bit and used opacity to hide the front/back of the circles as they turned. I'm hoping to be able to figure out how to do this with [backface-visibility](https://www.w3schools.com/cssref/css3_pr_backface-visibility.asp) instead.
+
+**Link to work:** [CodePen #006](https://codepen.io/tricialeach/pen/OgQQeB/)
+
+**Resources:** 
+
+1. [Create a CSS Flipping Animation](https://davidwalsh.name/css-flip): I used some parts of this for the flipping
+2. [Using backface-visibility and CSS Animations](https://designmodo.com/backface-visibility-css-animation/): I'm going to check this one out tomorrow
+
+- - - 
+
 ### Day 5: June 27, 2017
 
 **Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/pen/ZyvERv). I was attempting to use Flexbox, but that didn't turn out so well.
