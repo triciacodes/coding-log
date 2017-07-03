@@ -1,5 +1,19 @@
 # 100 Days Of Code Log
 
+### Day 7: July 2, 2017
+
+**Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/pen/OgvYZO), and messed around with my Kirby installation.
+
+**Thoughts:** Getting a bit quicker making these. In addition to the CodePen, I spent around an hour today reading and watching videos on CSS units. There is a lot I didn't properly understand, so I'm glad I took the time to do that.
+
+**Link to work:** [CodePen #007](https://codepen.io/tricialeach/pen/OgvYZO)
+
+**Resources:** 
+
+1. [CSS Units (video)](https://www.youtube.com/watch?v=qrduUUdxBSY): I've been working my way through some of the videos in the DevTips archive
+
+- - - 
+
 ### Day 6: July 1, 2017
 
 **Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/pen/OgQQeB/). This was an experiment in getting Flexbox to work properly, and trying to flip something back to front.
