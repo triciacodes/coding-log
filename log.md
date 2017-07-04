@@ -1,5 +1,17 @@
 # 100 Days Of Code Log
 
+### Day 7A: July 3, 2017
+
+**Today's Progress**: I didn't make progress on personal projects, but I worked for around 4–5 hours on a [LaunchCode](https://www.launchcode.org/lc101) project. I was on a roll, and wanted to keep on going instead of breaking to work on a CodePen. I've decided I don't want to count days like these to my 100 Days of Code challenge, but I do want to give myself a break if I've worked at least a couple of hours on projects for school and want to keep going (actual projects, not learning).
+
+**Thoughts:** Met up with Hailey and Ruby from LaunchCode and had a successful work session at Grand Central Bakery on Fremont. It's a pretty good place to work in the afternoon. Very quiet, and a nice big table. I worked for a couple of hours at home by myself later in the evening.
+
+It can be very overwhelming to try to work on a big project without breaking it down into tiny steps, so I've been careful to implement one tiny part at a time, and test to see if it works. If I get an error, I remove what I just added, and break that down into smaller bits to see what is breaking it. This ends up giving me lots of little successes and motivates me to keep going, instead of coding for hours to find there are multiple errors that I can't untangle.
+
+**Link to work:** [lc101-user-signup](https://github.com/tricialeach/lc101-user-signup)
+
+- - - 
+
 ### Day 7: July 2, 2017
 
 **Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/pen/OgvYZO), and messed around with my Kirby installation.
