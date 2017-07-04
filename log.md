@@ -2,7 +2,7 @@
 
 ### Day 7A: July 3, 2017
 
-**Today's Progress**: I didn't make progress on personal projects, but I worked for around 4–5 hours on a [LaunchCode](https://www.launchcode.org/lc101) project. I was on a roll, and wanted to keep on going instead of breaking to work on a CodePen. I've decided I don't want to count days like these to my 100 Days of Code challenge, but I do want to give myself a break if I've worked at least a couple of hours on projects for school and want to keep going (actual projects, not learning).
+**Today's Progress**: I didn't make progress on personal projects, but I worked for around 4–5 hours on a [LaunchCode](https://www.launchcode.org/lc101) project. I was on a roll, and wanted to keep on going instead of breaking to work on a CodePen. I'm working on a user sign-up form with Python and Flask, that needs to have multiple validation points. I've decided I don't want to count days like these to my 100 Days of Code challenge, but I do want to give myself a break if I've worked at least a couple of hours on projects for school and want to keep going (actual projects, not learning).
 
 **Thoughts:** Met up with Hailey and Ruby from LaunchCode and had a successful work session at Grand Central Bakery on Fremont. It's a pretty good place to work in the afternoon. Very quiet, and a nice big table. I worked for a couple of hours at home by myself later in the evening.
 
