@@ -10,9 +10,9 @@
 
 **Resources:** 
 
-1. [CSS Clip Path Maker)](http://bennettfeely.com/clippy/: This is an amazing tool, particularly the custom polygon path maker
-2. [Clipping in CSS and SVG)](https://www.sarasoueidan.com/blog/css-svg-clipping/: Reading about clipping
-3. [Clipping and Masking in CSS)](https://css-tricks.com/clipping-masking-css/: Reading about clipping and masking
+1. [CSS Clip Path Maker](http://bennettfeely.com/clippy/): This is an amazing tool, particularly the custom polygon path maker
+2. [Clipping in CSS and SVG](https://www.sarasoueidan.com/blog/css-svg-clipping/): Reading about clipping
+3. [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/): Reading about clipping and masking
 
 - - - 
 
