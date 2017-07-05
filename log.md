@@ -1,5 +1,21 @@
 # 100 Days Of Code Log
 
+### Day 8: July 4, 2017
+
+**Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/full/MoXEXX/), trying out clipping in CSS. Sort of a minimal petri dish with CSS animation. I also made good progress on a project for LaunchCode.
+
+**Thoughts:** No deep thoughts tonight. Just happy to add another css trick to my bag.
+
+**Link to work:** [CodePen #008](https://codepen.io/tricialeach/full/MoXEXX/)
+
+**Resources:** 
+
+1. [CSS Clip Path Maker)](http://bennettfeely.com/clippy/): This is an amazing tool, particularly the custom polygon path maker
+2. [Clipping in CSS and SVG)](https://www.sarasoueidan.com/blog/css-svg-clipping/): Reading about clipping
+3. [Clipping and Masking in CSS)](https://css-tricks.com/clipping-masking-css/): Reading about clipping and masking
+
+- - - 
+
 ### Day 7A: July 3, 2017
 
 **Today's Progress**: I didn't make progress on personal projects, but I worked for around 4–5 hours on a [LaunchCode](https://www.launchcode.org/lc101) project. I was on a roll, and wanted to keep on going instead of breaking to work on a CodePen. I'm working on a user sign-up form with Python and Flask, that needs to have multiple validation points. I've decided I don't want to count days like these to my 100 Days of Code challenge, but I do want to give myself a break if I've worked at least a couple of hours on projects for school and want to keep going (actual projects, not learning).
