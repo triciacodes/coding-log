@@ -2,7 +2,7 @@
 
 ### Day 8: July 4, 2017
 
-**Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/full/MoXEXX/), trying out clipping in CSS. Sort of a minimal petri dish with CSS animation. I also made good progress on a project for LaunchCode.
+**Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/full/MoXEXX/), trying out clipping in CSS. Sort of a minimal petri dish with CSS animation. I also made good progress on a [project](https://github.com/tricialeach/lc101-user-signup) for LaunchCode.
 
 **Thoughts:** No deep thoughts tonight. Just happy to add another css trick to my bag.
 
@@ -10,9 +10,9 @@
 
 **Resources:** 
 
-1. [CSS Clip Path Maker)](http://bennettfeely.com/clippy/): This is an amazing tool, particularly the custom polygon path maker
-2. [Clipping in CSS and SVG)](https://www.sarasoueidan.com/blog/css-svg-clipping/): Reading about clipping
-3. [Clipping and Masking in CSS)](https://css-tricks.com/clipping-masking-css/): Reading about clipping and masking
+1. [CSS Clip Path Maker)](http://bennettfeely.com/clippy/: This is an amazing tool, particularly the custom polygon path maker
+2. [Clipping in CSS and SVG)](https://www.sarasoueidan.com/blog/css-svg-clipping/: Reading about clipping
+3. [Clipping and Masking in CSS)](https://css-tricks.com/clipping-masking-css/: Reading about clipping and masking
 
 - - - 
 
