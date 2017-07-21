@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-I'll be coding for a minimum of an hour a day, every day for 100 days. I am currently focusing on CSS animations, and creating something daily at [CodePen](https://codepen.io/collection/npNWxv/).
+I'll be coding for a minimum of an hour a day, every day for 100 days. Start date: 7/20/2017
 
 * [Log - click here to see my progress](log.md)
 
