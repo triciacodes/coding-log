@@ -1,5 +1,21 @@
 # 100 Days Of Code Log
 
+### Day 3: July 22, 2017
+
+**Today's Progress**: Worked on the Build a Blog assignment for LaunchCode 101.
+
+**Link to work:** [Build a Blog](https://github.com/tricialeach/lc101-build-a-blog)
+
+- - - 
+
+### Day 2: July 21, 2017
+
+**Today's Progress**: Worked on the Build a Blog assignment for LaunchCode 101.
+
+**Link to work:** [Build a Blog](https://github.com/tricialeach/lc101-build-a-blog)
+
+- - - 
+
 ### Day 1: July 20, 2017
 
 **Today's Progress**: I restarted 100 days of code today. I was learning how to create 3D shapes with [Processing](https://processing.org/), and I came up with [this](https://github.com/tricialeach/processing/tree/master/sketch_170720a) shimmery sort of gradient box, halfway through intention, and halfway through happy accident.
