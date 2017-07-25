@@ -1,5 +1,21 @@
 # 100 Days Of Code Log
 
+### Day 5: July 24, 2017
+
+**Today's Progress**: Finished the Blogz assignment for LaunchCode 101 (woo!).
+
+**Link to work:** [Blogz](https://github.com/tricialeach/lc101-blogz)
+
+- - - 
+
+### Day 4: July 23, 2017
+
+**Today's Progress**: Worked on the Blogz assignment for LaunchCode 101.
+
+**Link to work:** [Blogz](https://github.com/tricialeach/lc101-blogz)
+
+- - - 
+
 ### Day 3: July 22, 2017
 
 **Today's Progress**: Worked on the Build a Blog assignment for LaunchCode 101.
