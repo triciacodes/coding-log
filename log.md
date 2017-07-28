@@ -18,9 +18,9 @@
 
 ### Day 6: July 25, 2017
 
-**Today's Progress**: Finished the Blogz assignment for LaunchCode 101 (woo!).
+**Today's Progress**: Working on quick Processing sketch to learn 3D and recursion.
 
-**Link to work:** [Blogz](https://github.com/tricialeach/lc101-blogz)
+**Link to work:** [3D box spiral](https://github.com/tricialeach/processing/tree/master/sketch_170725c_2)
 
 - - - 
 
