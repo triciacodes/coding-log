@@ -1,5 +1,29 @@
 # 100 Days Of Code Log
 
+### Day 8: July 27, 2017
+
+**Today's Progress**: Finished Processing sketch for project 2 for my creative coding class.
+
+**Link to work:** [Project 2](https://github.com/tricialeach/processing/tree/master/sketch_170727i_project2)
+
+- - - 
+
+### Day 7: July 26, 2017
+
+**Today's Progress**: Working on a Processing sketch for project 2 for my creative coding class.
+
+**Link to work:** [Project 2](https://github.com/tricialeach/processing/tree/master/sketch_170727i_project2)
+
+- - - 
+
+### Day 6: July 25, 2017
+
+**Today's Progress**: Finished the Blogz assignment for LaunchCode 101 (woo!).
+
+**Link to work:** [Blogz](https://github.com/tricialeach/lc101-blogz)
+
+- - - 
+
 ### Day 5: July 24, 2017
 
 **Today's Progress**: Finished the Blogz assignment for LaunchCode 101 (woo!).
