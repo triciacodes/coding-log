@@ -1,8 +1,16 @@
 # 100 Days Of Code Log
 
-### Day 8: July 27, 2017
+### Day 9: July 28, 2017
 
 **Today's Progress**: Finished Processing sketch for project 2 for my creative coding class.
+
+**Link to work:** [Project 2](https://github.com/tricialeach/processing/tree/master/sketch_170727i_project2)
+
+- - - 
+
+### Day 8: July 27, 2017
+
+**Today's Progress**: Working on a Processing sketch for project 2 for my creative coding class.
 
 **Link to work:** [Project 2](https://github.com/tricialeach/processing/tree/master/sketch_170727i_project2)
 
