@@ -2,7 +2,7 @@
 
 ### Day 1: September 1, 2017
 
-**Today's Progress**: Restarting the challenge again. I've been steadily working on both JavaScript and Processing, but I haven't been consistently pushing work to Github. I haven't found a good way to post my Processing sketches online. I may switch to using [p5.js](https://p5js.org/) so that I can publish the sketches on my website. Today I worked on [HackerRank](https://www.hackerrank.com) 30 Days of Code challenges, and the todo list exercise from the [Practical JavaScript](https://watchandcode.com) course. I'm happy to report that I'm able to work ahead somewhat within each section. After I finish working through the tutorial, I'm planning on trying to duplicate the project independently.
+**Today's Progress**: Restarting the challenge again. I've been steadily working on both JavaScript and Processing, but I haven't been consistently pushing work to Github. I haven't found a good way to post my Processing sketches online without resorting to using gifs. I may switch to using [p5.js](https://p5js.org/) so that I can publish the sketches on my website. Today I worked on [HackerRank](https://www.hackerrank.com) 30 Days of Code challenges, and the todo list exercise from the [Practical JavaScript](https://watchandcode.com) course. I'm happy to report that I'm able to work ahead somewhat within each section. After I finish working through the tutorial, I'm planning on trying to duplicate the project independently.
 
 **Link to work:** [Todo List](https://github.com/tricialeach/practical-javascript-todo-list)
 
