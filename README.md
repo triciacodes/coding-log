@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-I'll be coding for a minimum of an hour a day, every day for 100 days. Start date: 7/20/2017
+I'll be coding for a minimum of an hour a day, every day for 100 days. Start date: 9/1/2017
 
 * [Log - click here to see my progress](log.md)
 
