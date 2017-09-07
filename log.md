@@ -1,5 +1,15 @@
 # 100 Days Of Code Log
 
+### Days 4–6: September 4–6, 2017
+
+**Today's Progress**: I've been working on my last project for my Creative Coding class at PCC. We did presentations on Sept 7. I used the [Leap Motion for Processing](https://github.com/nok/leap-motion-processing) library to make the graphics responsive to hand motion and gestures. I also made each of the interactions available by using the keyboard. 
+
+**Link to work:** [Creative Coding Project #4](https://github.com/tricialeach/processing-leap-motion-1)
+
+- - - 
+
+# 100 Days Of Code Log
+
 ### Day 3: September 3, 2017
 
 **Today's Progress**: Working through the problems in Codecademy's updated [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) course. Some of the [ES6 features](https://github.com/lukehoban/es6features) are covered in this course, so some of this is new knowledge. Notably: let, const, arrow syntax.
