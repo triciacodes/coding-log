@@ -8,8 +8,6 @@
 
 - - - 
 
-# 100 Days Of Code Log
-
 ### Day 3: September 3, 2017
 
 **Today's Progress**: Working through the problems in Codecademy's updated [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) course. Some of the [ES6 features](https://github.com/lukehoban/es6features) are covered in this course, so some of this is new knowledge. Notably: let, const, arrow syntax.
