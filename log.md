@@ -1,3 +1,19 @@
+### October 10, 2017
+
+**Today's Progress**: Finished the design draft for my personal portfolio website. Installed [Homebrew](https://brew.sh/), updated Ruby, and installed [Sass](http://sass-lang.com/install).
+
+**Link to work:** N/A
+
+- - -
+
+### October 9, 2017
+
+**Today's Progress**: Started coding the Friends of Graphic Design website again. The last version (started/stopped a year ago) utilized floats for layout, and wasn't fully completed. I stripped out the floats and converted to using Bootstrap for layout. After getting into the more creative aspects of the layout (photos that go off the side of page, backgrounds that are diagonal), I realized the way I'm using Bootstrap might not be the best setup for this layout. Additionally, it complicates the HTML with a lot of divs. And, it's unlikely that most students who will be updating the website will know Bootstrap. I'm trying to strike a compromise between creating this website quickly, and using technology that students with more limited knowledge will be able to update. Flexbox with great comments may be the way to go.
+
+**Link to work:** [FoGD Website](https://github.com/tricialeach/fogd-website)
+
+- - - 
+
 ### September 4–6, 2017
 
 **Today's Progress**: I've been working on my last project for my Creative Coding class at PCC. We did presentations on Sept 7. I used the [Leap Motion for Processing](https://github.com/nok/leap-motion-processing) library to make the graphics responsive to hand motion and gestures. I also made each of the interactions available by using the keyboard. 
