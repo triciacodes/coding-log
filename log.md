@@ -1,8 +1,8 @@
 ### October 10, 2017
 
-**Today's Progress**: Finished the design draft for my personal portfolio website. Installed [Homebrew](https://brew.sh/), updated Ruby, and installed [Sass](http://sass-lang.com/install).
+**Today's Progress**: Finished the design draft for my personal portfolio website. Installed [Homebrew](https://brew.sh/), updated Ruby, and installed [Sass](http://sass-lang.com/install). Set up initial starter template for portfolio website, including Sass file. Tested to ensure it was working. This is what I need to use in terminal: $sass --watch --style expanded scss/styles.scss:styles/main.css
 
-**Link to work:** N/A
+**Link to work:** [Portfolio Website](https://github.com/tricialeach/portfolio-2017)
 
 - - -
 
