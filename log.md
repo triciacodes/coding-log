@@ -121,6 +121,8 @@
 **Resources:** 
 1. [Processing.org](https://processing.org/tutorials/p3d/): 3D documentation
 
+- - - 
+
 ### July 4, 2017
 
 **Today's Progress**: Finished another [CodePen](https://codepen.io/tricialeach/full/MoXEXX/), trying out clipping in CSS. Sort of a minimal petri dish with CSS animation. I also made good progress on a [project](https://github.com/tricialeach/lc101-user-signup) for LaunchCode.
