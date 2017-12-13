@@ -2,7 +2,9 @@
 
 **Today's Progress**: I finished my degree at PSU, so now I have more time for tutorials and documenting work. I'll either document work here, or start 100 days of code again. Yesterday I watched a couple of tutorials on Node, and started to make an app that uses [OpenWeatherMap](https://openweathermap.org) API to display the sunrise/sunset times in Portland. I haven't figured out how to mask the API yet, so I haven't commited to Git. I'm hoping to figure that part out today.
 
-**Tutorials:** [What is Node?](https://www.youtube.com/watch?v=RF5_MPSNAtU), [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
+**Tutorials:** 
+1. [What is Node?](https://www.youtube.com/watch?v=RF5_MPSNAtU)
+2. [Node.js Tutorial For Absolute Beginners](https://www.youtube.com/watch?v=U8XF6AFGqlc)
 
 - - -
 
